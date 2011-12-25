@@ -1,0 +1,245 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Sprites\Spaceship\broken_ship1.png</Source>
+      <Name>Sprites\Spaceship\broken_ship1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Will\Documents\My Dropbox\Projects\Ludum Dare 2011 2\LudumDareGame2\LudumDareGame2\LudumDareGame2\bin\x86\Release\Content\Sprites\Spaceship\broken_ship1.xnb</Output>
+      <Time>2011-12-17T06:17:32-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Spaceship\broken_ship2.png</Source>
+      <Name>Sprites\Spaceship\broken_ship2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Will\Documents\My Dropbox\Projects\Ludum Dare 2011 2\LudumDareGame2\LudumDareGame2\LudumDareGame2\bin\x86\Release\Content\Sprites\Spaceship\broken_ship2.xnb</Output>
+      <Time>2011-12-17T06:17:34-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Backgrounds\background1.png</Source>
+      <Name>Sprites\Backgrounds\background1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Will\Documents\My Dropbox\Projects\Ludum Dare 2011 2\LudumDareGame2\LudumDareGame2\LudumDareGame2\bin\x86\Release\Content\Sprites\Backgrounds\background1.xnb</Output>
+      <Time>2011-12-17T06:53:56-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Backgrounds\background2.png</Source>
+      <Name>Sprites\Backgrounds\background2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Will\Documents\My Dropbox\Projects\Ludum Dare 2011 2\LudumDareGame2\LudumDareGame2\LudumDareGame2\bin\x86\Release\Content\Sprites\Backgrounds\background2.xnb</Output>
+      <Time>2011-12-17T06:53:56-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Backgrounds\background3.png</Source>
+      <Name>Sprites\Backgrounds\background3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Will\Documents\My Dropbox\Projects\Ludum Dare 2011 2\LudumDareGame2\LudumDareGame2\LudumDareGame2\bin\x86\Release\Content\Sprites\Backgrounds\background3.xnb</Output>
+      <Time>2011-12-17T06:53:56-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Backgrounds\background4.png</Source>
+      <Name>Sprites\Backgrounds\background4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Will\Documents\My Dropbox\Projects\Ludum Dare 2011 2\LudumDareGame2\LudumDareGame2\LudumDareGame2\bin\x86\Release\Content\Sprites\Backgrounds\background4.xnb</Output>
+      <Time>2011-12-17T06:53:56-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Spaceship\spaceship.png</Source>
+      <Name>Sprites\Spaceship\spaceship</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Will\Documents\My Dropbox\Projects\Ludum Dare 2011 2\LudumDareGame2\LudumDareGame2\LudumDareGame2\bin\x86\Release\Content\Sprites\Spaceship\spaceship.xnb</Output>
+      <Time>2011-12-17T07:10:41-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Player\astronaut.png</Source>
+      <Name>Sprites\Player\astronaut</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Will\Documents\My Dropbox\Projects\Ludum Dare 2011 2\LudumDareGame2\LudumDareGame2\LudumDareGame2\bin\x86\Release\Content\Sprites\Player\astronaut.xnb</Output>
+      <Time>2011-12-17T07:18:36-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Items\welder.png</Source>
+      <Name>Sprites\Items\welder</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Will\Documents\My Dropbox\Projects\Ludum Dare 2011 2\LudumDareGame2\LudumDareGame2\LudumDareGame2\bin\x86\Release\Content\Sprites\Items\welder.xnb</Output>
+      <Time>2011-12-17T14:38:48-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Items\ai.png</Source>
+      <Name>Sprites\Items\ai</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Will\Documents\My Dropbox\Projects\Ludum Dare 2011 2\LudumDareGame2\LudumDareGame2\LudumDareGame2\bin\x86\Release\Content\Sprites\Items\ai.xnb</Output>
+      <Time>2011-12-17T14:38:54-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Items\engine.png</Source>
+      <Name>Sprites\Items\engine</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Will\Documents\My Dropbox\Projects\Ludum Dare 2011 2\LudumDareGame2\LudumDareGame2\LudumDareGame2\bin\x86\Release\Content\Sprites\Items\engine.xnb</Output>
+      <Time>2011-12-17T14:39:02-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\HUD\arrow.png</Source>
+      <Name>Sprites\HUD\arrow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Will\Documents\My Dropbox\Projects\Ludum Dare 2011 2\LudumDareGame2\LudumDareGame2\LudumDareGame2\bin\x86\Release\Content\Sprites\HUD\arrow.xnb</Output>
+      <Time>2011-12-17T15:26:53-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\HUD\objective_arrow.png</Source>
+      <Name>Sprites\HUD\objective_arrow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Will\Documents\My Dropbox\Projects\Ludum Dare 2011 2\LudumDareGame2\LudumDareGame2\LudumDareGame2\bin\x86\Release\Content\Sprites\HUD\objective_arrow.xnb</Output>
+      <Time>2011-12-17T18:22:23-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\HUD\big_blank.png</Source>
+      <Name>Sprites\HUD\big_blank</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Will\Documents\My Dropbox\Projects\Ludum Dare 2011 2\LudumDareGame2\LudumDareGame2\LudumDareGame2\bin\x86\Release\Content\Sprites\HUD\big_blank.xnb</Output>
+      <Time>2011-12-17T18:51:35-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\HUD\controls.png</Source>
+      <Name>Sprites\HUD\controls</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Will\Documents\My Dropbox\Projects\Ludum Dare 2011 2\LudumDareGame2\LudumDareGame2\LudumDareGame2\bin\x86\Release\Content\Sprites\HUD\controls.xnb</Output>
+      <Time>2011-12-17T21:39:56-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Meteorite\meteorite.png</Source>
+      <Name>Sprites\Meteorite\meteorite</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Will\Documents\My Dropbox\Projects\Ludum Dare 2011 2\LudumDareGame2\LudumDareGame2\LudumDareGame2\bin\x86\Release\Content\Sprites\Meteorite\meteorite.xnb</Output>
+      <Time>2011-12-18T01:25:06-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Meteorite\meteorite_mask.png</Source>
+      <Name>Sprites\Meteorite\meteorite_mask</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Will\Documents\My Dropbox\Projects\Ludum Dare 2011 2\LudumDareGame2\LudumDareGame2\LudumDareGame2\bin\x86\Release\Content\Sprites\Meteorite\meteorite_mask.xnb</Output>
+      <Time>2011-12-18T01:25:06-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\HUDFont.spritefont</Source>
+      <Name>Fonts\HUDFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Will\Documents\My Dropbox\Projects\Ludum Dare 2011 2\LudumDareGame2\LudumDareGame2\LudumDareGame2\bin\x86\Release\Content\Fonts\HUDFont.xnb</Output>
+      <Time>2011-12-23T07:02:41.6192168-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\move.wav</Source>
+      <Name>Sounds\move</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Will\Documents\My Dropbox\Projects\Ludum Dare 2011 2\LudumDareGame2\LudumDareGame2\LudumDareGame2\bin\x86\Release\Content\Sounds\move.xnb</Output>
+      <Time>2011-12-17T20:14:04-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\pick_up.wav</Source>
+      <Name>Sounds\pick_up</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Will\Documents\My Dropbox\Projects\Ludum Dare 2011 2\LudumDareGame2\LudumDareGame2\LudumDareGame2\bin\x86\Release\Content\Sounds\pick_up.xnb</Output>
+      <Time>2011-12-17T20:30:06-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\repair.wav</Source>
+      <Name>Sounds\repair</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Will\Documents\My Dropbox\Projects\Ludum Dare 2011 2\LudumDareGame2\LudumDareGame2\LudumDareGame2\bin\x86\Release\Content\Sounds\repair.xnb</Output>
+      <Time>2011-12-17T20:30:06-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\SpaceMusic.mp3</Source>
+      <Name>Sounds\SpaceMusic</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Will\Documents\My Dropbox\Projects\Ludum Dare 2011 2\LudumDareGame2\LudumDareGame2\LudumDareGame2\bin\x86\Release\Content\Sounds\SpaceMusic.xnb</Output>
+      <Extra>C:\Users\Will\Documents\My Dropbox\Projects\Ludum Dare 2011 2\LudumDareGame2\LudumDareGame2\LudumDareGame2\bin\x86\Release\Content\Sounds\SpaceMusic.wma</Extra>
+      <Time>2011-12-18T19:45:18-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Release</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>C:\Users\Will\Documents\My Dropbox\Projects\Ludum Dare 2011 2\LudumDareGame2\LudumDareGame2\LudumDareGame2Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Will\Documents\My Dropbox\Projects\Ludum Dare 2011 2\LudumDareGame2\LudumDareGame2\LudumDareGame2\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Will\Documents\My Dropbox\Projects\Ludum Dare 2011 2\LudumDareGame2\LudumDareGame2\LudumDareGame2Content\obj\x86\Release\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Will\Documents\My Dropbox\Projects\Ludum Dare 2011 2\LudumDareGame2\LudumDareGame2\LudumDareGame2\bin\x86\Release\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2011-04-28T15:17:43.3916127-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
