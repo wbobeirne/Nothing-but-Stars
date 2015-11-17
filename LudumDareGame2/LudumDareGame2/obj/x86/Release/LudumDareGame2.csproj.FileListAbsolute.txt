@@ -27,3 +27,19 @@ C:\Users\Will\Documents\My Dropbox\Projects\Ludum Dare 2011 2\LudumDareGame2\Lud
 C:\Users\Will\Documents\My Dropbox\Projects\Ludum Dare 2011 2\LudumDareGame2\LudumDareGame2\LudumDareGame2\obj\x86\Release\LudumDareGame2.exe
 C:\Users\Will\Documents\My Dropbox\Projects\Ludum Dare 2011 2\LudumDareGame2\LudumDareGame2\LudumDareGame2\obj\x86\Release\LudumDareGame2.pdb
 C:\Users\Will\Documents\My Dropbox\Projects\Ludum Dare 2011 2\LudumDareGame2\LudumDareGame2\LudumDareGame2\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\William\Documents\GitHub\Nothing-but-Stars\LudumDareGame2\LudumDareGame2\obj\x86\Release\LudumDareGame2.exe
+C:\Users\William\Documents\GitHub\Nothing-but-Stars\LudumDareGame2\LudumDareGame2\obj\x86\Release\LudumDareGame2.pdb
+C:\Users\William\Documents\GitHub\Nothing-but-Stars\LudumDareGame2\LudumDareGame2\bin\x86\Release\LudumDareGame2.exe.config
+C:\Users\William\Documents\GitHub\Nothing-but-Stars\LudumDareGame2\LudumDareGame2\bin\x86\Release\LudumDareGame2.exe
+C:\Users\William\Documents\GitHub\Nothing-but-Stars\LudumDareGame2\LudumDareGame2\bin\x86\Release\LudumDareGame2.pdb
+C:\Users\William\Documents\GitHub\Nothing-but-Stars\LudumDareGame2\LudumDareGame2\bin\x86\Release\MonoGame.Framework.dll
+C:\Users\William\Documents\GitHub\Nothing-but-Stars\LudumDareGame2\LudumDareGame2\bin\x86\Release\SharpDX.MediaFoundation.dll
+C:\Users\William\Documents\GitHub\Nothing-but-Stars\LudumDareGame2\LudumDareGame2\bin\x86\Release\SharpDX.dll
+C:\Users\William\Documents\GitHub\Nothing-but-Stars\LudumDareGame2\LudumDareGame2\bin\x86\Release\SharpDX.XAudio2.dll
+C:\Users\William\Documents\GitHub\Nothing-but-Stars\LudumDareGame2\LudumDareGame2\bin\x86\Release\SharpDX.Direct3D11.dll
+C:\Users\William\Documents\GitHub\Nothing-but-Stars\LudumDareGame2\LudumDareGame2\bin\x86\Release\SharpDX.DXGI.dll
+C:\Users\William\Documents\GitHub\Nothing-but-Stars\LudumDareGame2\LudumDareGame2\bin\x86\Release\SharpDX.Direct2D1.dll
+C:\Users\William\Documents\GitHub\Nothing-but-Stars\LudumDareGame2\LudumDareGame2\bin\x86\Release\SharpDX.XInput.dll
+C:\Users\William\Documents\GitHub\Nothing-but-Stars\LudumDareGame2\LudumDareGame2\bin\x86\Release\SharpDX.RawInput.dll
+C:\Users\William\Documents\GitHub\Nothing-but-Stars\LudumDareGame2\LudumDareGame2\bin\x86\Release\SharpDX.Direct3D9.dll
+C:\Users\William\Documents\GitHub\Nothing-but-Stars\LudumDareGame2\LudumDareGame2\bin\x86\Release\MonoGame.Framework.xml
